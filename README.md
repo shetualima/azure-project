@@ -20,12 +20,12 @@ This dataset contains  2 files withb 40 records of random public data with 24 co
 ### -Python
 ### -Power BI
 
-# SQL script
+# SQL script using Azure Synapse Studio
 
 https://web.azuresynapse.net/authoring/analyze/sqlscripts/SQL%20script%20for%20Finance_data?workspace=%2Fsubscriptions%2Fd59ecd69-7580-448f-9c7b-ed17f67b4dcd%2FresourceGroups%2Ffinancedata%2Fproviders%2FMicrosoft.Synapse%2Fworkspaces%2Ffinanceoriginaldata&livyId=0&sparkPoolName=SPARK1
 
 
-# PySpark_Python Script
+# PySpark_Python Script using Azure Synapse Studio
 
 https://web.azuresynapse.net/authoring/analyze/notebooks/Finance%20Notebook?workspace=%2Fsubscriptions%2Fd59ecd69-7580-448f-9c7b-ed17f67b4dcd%2FresourceGroups%2Ffinancedata%2Fproviders%2FMicrosoft.Synapse%2Fworkspaces%2Ffinanceoriginaldata&livyId=0&sparkPoolName=SPARK1
 
@@ -41,6 +41,7 @@ https://web.azuresynapse.net/authoring/analyze/notebooks/Finance%20Notebook?work
 ![image](https://github.com/user-attachments/assets/a2f5688d-3cd9-4ce5-b23e-86048fad9460)
 
 ![image](https://github.com/user-attachments/assets/6ce51f9a-0e9e-4f9e-a6e6-3559c31a0bf5)
+
 
 
 
