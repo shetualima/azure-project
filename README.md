@@ -38,6 +38,12 @@ https://web.azuresynapse.net/authoring/analyze/notebooks/Finance%20Notebook?work
 
 ![image](https://github.com/user-attachments/assets/67b9b858-65f5-4537-99ad-fe003f5f03dd)
 
+![image](https://github.com/user-attachments/assets/a2f5688d-3cd9-4ce5-b23e-86048fad9460)
+
+![image](https://github.com/user-attachments/assets/6ce51f9a-0e9e-4f9e-a6e6-3559c31a0bf5)
+
+
+
 
 
 # Power BI Report
