@@ -48,6 +48,7 @@ https://web.azuresynapse.net/authoring/analyze/notebooks/Finance%20Notebook?work
 
 # Power BI Report
 
+
 ![image](https://github.com/user-attachments/assets/9ee0b771-f37d-47d6-a44e-284c086e0a46)
 
 
