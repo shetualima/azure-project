@@ -1,6 +1,6 @@
 # Finance-Data-Analysis
 
-This repo is created for visualization key factors on Finance data using Azure synapse through  Azure Data Storage lake, Data Factory and Data Bricks.
+The repo is created for visualization key factors on Finance data using Azure synapse through  Azure Data Storage lake, Data Factory and Data Bricks.
 
 This repository could be used as a learning project to practice data manipulation, analysis, and visualization techniques using Sql and Python libraries like pandas, NumPy, scikit-learn, and matplotlib, plotly by PySpark Language on Synapse Studio.
 
