@@ -13,7 +13,7 @@ This repository could be used as a learning project to practice data manipulatio
 Finance Data:
 ## Dataset Overview
 
-This dataset contains  2 files withb 40 records of random public data with 24 columns each. The data includes both numerical and categorical features, providing a random comprehensive view. 
+This dataset contains  2 files with 40 records of random public data with 24 columns each. The data includes both numerical and categorical features, providing a random comprehensive view. 
 
 ## Using Tools:
 
