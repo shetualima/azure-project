@@ -4,7 +4,8 @@ This repo is created for visualization key factors on Finance data using Azure s
 
 This repository could be used as a learning project to practice data manipulation, analysis, and visualization techniques using Sql and Python libraries like pandas, NumPy, scikit-learn, and matplotlib, plotly by PySpark Language on Synapse Studio.
 
-![image](https://github.com/user-attachments/assets/736e8cc7-2b0f-40b7-9924-c1dc59510920)
+![image](https://github.com/user-attachments/assets/78488eeb-e30d-4d1c-a5c4-5b4a1dae3a23)
+
 
 
 
