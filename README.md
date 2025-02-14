@@ -20,12 +20,12 @@ This dataset contains  2 files withb 40 records of random public data with 24 co
 ### -Python
 ### -Power BI
 
-# SQL Project
+# SQL script
 
 https://web.azuresynapse.net/authoring/analyze/sqlscripts/SQL%20script%20for%20Finance_data?workspace=%2Fsubscriptions%2Fd59ecd69-7580-448f-9c7b-ed17f67b4dcd%2FresourceGroups%2Ffinancedata%2Fproviders%2FMicrosoft.Synapse%2Fworkspaces%2Ffinanceoriginaldata&livyId=0&sparkPoolName=SPARK1
 
 
-# Python Project
+# PySpark_Python Script
 
 https://web.azuresynapse.net/authoring/analyze/notebooks/Finance%20Notebook?workspace=%2Fsubscriptions%2Fd59ecd69-7580-448f-9c7b-ed17f67b4dcd%2FresourceGroups%2Ffinancedata%2Fproviders%2FMicrosoft.Synapse%2Fworkspaces%2Ffinanceoriginaldata&livyId=0&sparkPoolName=SPARK1
 
@@ -42,14 +42,14 @@ https://web.azuresynapse.net/authoring/analyze/notebooks/Finance%20Notebook?work
 
 # Power BI Report
 
+![image](https://github.com/user-attachments/assets/9ee0b771-f37d-47d6-a44e-284c086e0a46)
 
-![image](https://github.com/user-attachments/assets/67980876-9bf0-4617-9347-7eefb36de5d9)
 
 
 ## Possible Use Cases
 
 This dashboard is for:
-* **Financial Advisors/Wealth Managers::** Analyzing the relationships between different features and the target variable.
+* **Financial Advisors/Wealth Managers:** Analyzing the relationships between different features and the target variable.
 * **Investment Analysts/Researchers:** Identifying the most important features contributing to risk assesment.
 * **Model Comparison:** Comparing the performance of different models for Individual Investors and Financial Institutions.
 
