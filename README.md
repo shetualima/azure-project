@@ -4,25 +4,31 @@ This repo is created for visualization key factors on Finance data using Azure s
 
 This repository could be used as a learning project to practice data manipulation, analysis, and visualization techniques using Sql and Python libraries like pandas, NumPy, scikit-learn, and matplotlib, plotly by PySpark Language on Synapse Studio.
 
-"C:\Users\alima\Desktop\azure_ raw_data\how-smarter-data-analysis-can-transform-financial-planning.jpeg"
+![image](https://github.com/user-attachments/assets/736e8cc7-2b0f-40b7-9924-c1dc59510920)
+
 
 
 
 Finance Data:
 ## Dataset Overview
 
-This dataset contains 294 records of patient data with 14 features. The data includes both numerical and categorical features, providing a comprehensive view of patient health conditions related to heart health. 
-
+This dataset contains  2 files withb 40 records of random public data with 24 columns each. The data includes both numerical and categorical features, providing a random comprehensive view. 
+Planning
+Tools being used
+Technology being used
+Expected outcome
+What would be the ah-ha thing?
 
 
 ## Using Tools:
 
-### -Power BI
+### -Sql
 ### -Python
+### -Power BI
 
-# Excel Project
+# SQL Project
 
-![image](https://github.com/user-attachments/assets/7693bec3-a1c1-497e-b40d-51d1a83ffcdd)
+
 
 ## Possible Use Cases
 
