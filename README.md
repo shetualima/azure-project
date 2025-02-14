@@ -13,12 +13,6 @@ Finance Data:
 ## Dataset Overview
 
 This dataset contains  2 files withb 40 records of random public data with 24 columns each. The data includes both numerical and categorical features, providing a random comprehensive view. 
-Planning
-Tools being used
-Technology being used
-Expected outcome
-What would be the ah-ha thing?
-
 
 ## Using Tools:
 
@@ -39,8 +33,6 @@ https://web.azuresynapse.net/authoring/analyze/notebooks/Finance%20Notebook?work
 ![image](https://github.com/user-attachments/assets/86b3d97c-9cf3-4158-a22e-9eae5cc26ef1)
 
 ![image](https://github.com/user-attachments/assets/adfef85b-4680-4d41-af19-12a050551475)
-
-![image](https://github.com/user-attachments/assets/987d7f82-8eab-4a71-8bbb-03c2a8f471e1)
 
 ![image](https://github.com/user-attachments/assets/1565b764-3a08-4a57-a863-98e064e37346)
 
