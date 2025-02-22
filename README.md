@@ -62,7 +62,7 @@ ORDER BY
 ![image](https://github.com/user-attachments/assets/b2e7d296-1d7b-4602-afe8-38705f48c3d8)
 
 
-### Query 3:  A relationship between an investor's risk tolerance (Expect) and their investment objective
+### Query 3: Investor's risk tolerance (Expect) and their investment objective
 
 ```sql
 SELECT
