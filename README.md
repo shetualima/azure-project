@@ -23,12 +23,72 @@ This dataset contains  2 files with 40 records of random public data with 24 col
 
 # SQL script using Azure Synapse Studio
 
-https://web.azuresynapse.net/authoring/analyze/sqlscripts/SQL%20script%20for%20Finance_data?workspace=%2Fsubscriptions%2Fd59ecd69-7580-448f-9c7b-ed17f67b4dcd%2FresourceGroups%2Ffinancedata%2Fproviders%2FMicrosoft.Synapse%2Fworkspaces%2Ffinanceoriginaldata&livyId=0&sparkPoolName=SPARK1
+
+  ## SQL Queries
+
+### Query 1: Objective Counts for 1-3 Year Duration
+
+```sql
+SELECT
+    objective,
+    COUNT(*) AS count
+FROM
+    finance_data
+WHERE
+    duration = '1-3 years'
+GROUP BY
+    objective
+ORDER BY
+    count DESC;
+```
+![image](https://github.com/user-attachments/assets/2ca14bbb-5d49-44ae-a34d-21e02d94a223)
+
+
+### Query 2: Gender, Purpose, Objective Counts
+
+```sql
+SELECT
+    gender,
+    purpose,
+    objective,
+    COUNT(*) AS count
+FROM
+    finance_data
+GROUP BY
+    gender, purpose, objective
+ORDER BY
+    gender, count DESC;
+```
+![image](https://github.com/user-attachments/assets/b2e7d296-1d7b-4602-afe8-38705f48c3d8)
+
+
+### Query 3:  A relationship between an investor's risk tolerance (Expect) and their investment objective
+
+```sql
+SELECT
+    Expect,  -- Risk tolerance
+    Objective,
+    COUNT(*) AS count
+FROM
+    Finance_data
+GROUP BY
+    Expect, Objective
+ORDER BY
+    count DESC;
+```
+
+![image](https://github.com/user-attachments/assets/bff13ae2-ae93-4635-abb6-d90ac1eb02f7)
+
+
+
 
 
 # PySpark_Python Script using Azure Synapse Studio
 
-https://web.azuresynapse.net/authoring/analyze/notebooks/Finance%20Notebook?workspace=%2Fsubscriptions%2Fd59ecd69-7580-448f-9c7b-ed17f67b4dcd%2FresourceGroups%2Ffinancedata%2Fproviders%2FMicrosoft.Synapse%2Fworkspaces%2Ffinanceoriginaldata&livyId=0&sparkPoolName=SPARK1
+
+
+
+
 
 
 ![image](https://github.com/user-attachments/assets/86b3d97c-9cf3-4158-a22e-9eae5cc26ef1)
@@ -49,6 +109,7 @@ https://web.azuresynapse.net/authoring/analyze/notebooks/Finance%20Notebook?work
 
 
 # Power BI Report
+
 
 
 ![image](https://github.com/user-attachments/assets/9ee0b771-f37d-47d6-a44e-284c086e0a46)
