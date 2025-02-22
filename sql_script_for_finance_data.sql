@@ -1,9 +1,8 @@
-/*1. Query: Top  objectives for a specific duration
+### /*1. Query: Top  objectives for a specific duration
 Question:
 Fetch the top  investment objectives for investments made in the "1-3 years" duration.*/
 
 -- Select * From Finance_data--
-
 
     SELECT 
         objective, 
@@ -15,12 +14,13 @@ Fetch the top  investment objectives for investments made in the "1-3 years" dur
     GROUP BY 
         objective
     ORDER BY 
-        count DESC
+        count DESC;
+
    
 
- /*Investment trends for males and females
+### /*2.Investment trends for males and females
 Question:Investigate investment trends for males and females, grouped by purpose and objective.*/  
-   
+  
    SELECT 
         gender, 
         purpose, 
@@ -34,7 +34,7 @@ Question:Investigate investment trends for males and females, grouped by purpose
         gender, count DESC;
 
 
-/*Query: Investment preferences based on risk tolerance
+### /* Query3: Investment preferences based on risk tolerance
 Question:
 Analyze investment preferences based on risk tolerance and display the counts for different purposes.*/
 
@@ -50,7 +50,7 @@ ORDER BY
     Factor, COUNT(*) DESC;  
 
 
-/*Percentage breakdown of investment objectives
+### /* Query4:Percentage breakdown of investment objectives
 Question: Calculate the percentage breakdown of each investment objective*/
 
 SELECT 
@@ -61,9 +61,11 @@ FROM
 GROUP BY 
     Objective;
 
-/* Correlation between Risk Tolerance and Investment Objective:
+
+### /* Query5: Risk Tolerance and Investment Objective:
 
 Question: Is there a relationship between an investor's risk tolerance (Expect) and their investment objective?*/
+
 
 SELECT
     Expect,  -- Risk tolerance
